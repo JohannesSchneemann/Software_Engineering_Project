@@ -36,4 +36,10 @@ If the dealer and player have the same hand then a push happens.
 
 Winning wagers pay even money, except a winning player blackjack usually pays 3 to 1
 
+Contributers:
+Rogelio Garza
+Gael Sanchez
+Henry Ruiz
+Johannes Schneemann
+
 
